@@ -12,4 +12,9 @@ git clone https://github.com/heeseo333/test3.git
 git  status
 git commit -m "update"
 
-git clone, add, commit ..etc pull push 
+git clone, add, commit ..etc pull push status
+
+# 정
+
+
+
