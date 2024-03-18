@@ -1,1 +1,5 @@
 정희서
+
+git add .
+git commit -m "test"
+
