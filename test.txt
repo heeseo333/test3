@@ -4,5 +4,5 @@ git add .
 git commit -m "test"
 
 git log
-git add .
+git add . cdc
 
